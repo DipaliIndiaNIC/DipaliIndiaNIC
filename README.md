@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DipaliIndiaNIC
+- 👋 Hi, I’m Dipali Gupta
 - 👀 I’m interested in ... Android + Kotlin + Mediapipe + ML
 - 🌱 I’m currently learning ... MediaPipe & ML
 - 💞️ I’m looking to collaborate on ... New projects in ML
